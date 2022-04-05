@@ -13,7 +13,7 @@
 
 It's me Alla NIANG <br>
 I'm a  Web and Mobile Junior Developer, <br>
-UI / UX Designer and Graphic Designer so welcome to my world!  <br>
+I am also a UI / UX Design lover so welcome to my world!  <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niangalla&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
